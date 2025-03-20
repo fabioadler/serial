@@ -1,2 +1,1 @@
-# serial
-Aprendendo a mexer com portas serial
+Esse repositorio e para mostrar o meu aprendizado com portas serial
